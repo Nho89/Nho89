@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nho89 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nho89&count_private=true)
+![Nho89 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nho89&count_private=true)&include_all_commits=true
