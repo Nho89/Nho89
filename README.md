@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nho89&layout=compact)](https://github.com/Nho89/github-readme-stats)
 
-<img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=-Nho89&row=2&column=3&theme=gitdimmed&no-frame=true" />
+<img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=Nho89&row=2&column=3&theme=gitdimmed&no-frame=true" />
