@@ -93,8 +93,6 @@ Estoy siempre abierta a colaborar en proyectos interesantes o a conectar con otr
 
 ### 📊 Mis Estadísticas (My GitHub Stats)
 
-*(Mantenemos las estadísticas que ya tenías)*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nho89&count_private=true&include_all_commits=true" alt="Nho89 GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nho89&layout=compact" alt="Top Langs" />
